@@ -1,0 +1,24 @@
+h1 {
+    font-family: fantasy;
+    text-decoration: underline;
+    color: rgb(95, 113, 85);
+}
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: larger;
+    font-weight: 900;
+    color: rgb(84, 30, 30);
+}
+img {
+    position: absolute;
+    top: 100px;
+    right: 50px;
+    width: 600px;
+}
+.youtube {
+    padding: 40px;
+}
+.link {
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    color: rgb(84, 30, 30);
+}
